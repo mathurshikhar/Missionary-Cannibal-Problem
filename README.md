@@ -4,4 +4,6 @@ A program which gives us an idea about the Missionary-Cannibal problem written i
 
 ## The problem
 
-In the missionaries and cannibals problem, three missionaries and three cannibals must cross a river using a boat which can carry at most two people, under the constraint that, for both banks, if there are missionaries present on the bank, they cannot be outnumbered by cannibals (if they were, the cannibals would eat the missionaries). The boat cannot cross the river by itself with no people on board.
+The Missionaries and Cannibals problem is a classic AI puzzle that can be defined as follows:
+On one bank of a river are three missionaries and three cannibals. There is one boat available that can hold up to two people and that they would like to use to cross the river. If the cannibals ever outnumber the missionaries on either of the river’s banks, the missionaries will get eaten. 
+How can the boat be used to safely carry all the missionaries and cannibals across the river?
